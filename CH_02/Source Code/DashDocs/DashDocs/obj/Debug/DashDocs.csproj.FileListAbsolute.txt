@@ -1,0 +1,240 @@
+E:\DashDocs\DashDocs\bin\ApplicationInsights.config
+E:\DashDocs\DashDocs\bin\roslyn\csc.exe
+E:\DashDocs\DashDocs\bin\roslyn\csc.exe.config
+E:\DashDocs\DashDocs\bin\roslyn\csc.rsp
+E:\DashDocs\DashDocs\bin\roslyn\csi.exe
+E:\DashDocs\DashDocs\bin\roslyn\csi.rsp
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DashDocs\DashDocs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DashDocs\DashDocs\bin\roslyn\System.AppContext.dll
+E:\DashDocs\DashDocs\bin\roslyn\System.Collections.Immutable.dll
+E:\DashDocs\DashDocs\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DashDocs\DashDocs\bin\roslyn\System.IO.FileSystem.dll
+E:\DashDocs\DashDocs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DashDocs\DashDocs\bin\roslyn\System.Reflection.Metadata.dll
+E:\DashDocs\DashDocs\bin\roslyn\vbc.exe
+E:\DashDocs\DashDocs\bin\roslyn\vbc.exe.config
+E:\DashDocs\DashDocs\bin\roslyn\vbc.rsp
+E:\DashDocs\DashDocs\bin\roslyn\VBCSCompiler.exe
+E:\DashDocs\DashDocs\bin\roslyn\VBCSCompiler.exe.config
+E:\DashDocs\DashDocs\bin\DashDocs.dll.config
+E:\DashDocs\DashDocs\bin\DashDocs.dll
+E:\DashDocs\DashDocs\bin\DashDocs.pdb
+E:\DashDocs\DashDocs\bin\Antlr3.Runtime.dll
+E:\DashDocs\DashDocs\bin\EntityFramework.dll
+E:\DashDocs\DashDocs\bin\EntityFramework.SqlServer.dll
+E:\DashDocs\DashDocs\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DashDocs\DashDocs\bin\Microsoft.AI.DependencyCollector.dll
+E:\DashDocs\DashDocs\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DashDocs\DashDocs\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DashDocs\DashDocs\bin\Microsoft.AI.Web.dll
+E:\DashDocs\DashDocs\bin\Microsoft.AI.WindowsServer.dll
+E:\DashDocs\DashDocs\bin\Microsoft.ApplicationInsights.dll
+E:\DashDocs\DashDocs\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\DashDocs\DashDocs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DashDocs\DashDocs\bin\Microsoft.Data.Edm.dll
+E:\DashDocs\DashDocs\bin\Microsoft.Data.OData.dll
+E:\DashDocs\DashDocs\bin\Microsoft.Data.Services.Client.dll
+E:\DashDocs\DashDocs\bin\Microsoft.Web.Infrastructure.dll
+E:\DashDocs\DashDocs\bin\Microsoft.WindowsAzure.Storage.dll
+E:\DashDocs\DashDocs\bin\Newtonsoft.Json.dll
+E:\DashDocs\DashDocs\bin\System.Net.Http.Formatting.dll
+E:\DashDocs\DashDocs\bin\System.Spatial.dll
+E:\DashDocs\DashDocs\bin\System.Web.Helpers.dll
+E:\DashDocs\DashDocs\bin\System.Web.Http.dll
+E:\DashDocs\DashDocs\bin\System.Web.Http.WebHost.dll
+E:\DashDocs\DashDocs\bin\System.Web.Mvc.dll
+E:\DashDocs\DashDocs\bin\System.Web.Optimization.dll
+E:\DashDocs\DashDocs\bin\System.Web.Razor.dll
+E:\DashDocs\DashDocs\bin\System.Web.WebPages.Deployment.dll
+E:\DashDocs\DashDocs\bin\System.Web.WebPages.dll
+E:\DashDocs\DashDocs\bin\System.Web.WebPages.Razor.dll
+E:\DashDocs\DashDocs\bin\WebGrease.dll
+E:\DashDocs\DashDocs\bin\Antlr3.Runtime.pdb
+E:\DashDocs\DashDocs\bin\EntityFramework.xml
+E:\DashDocs\DashDocs\bin\EntityFramework.SqlServer.xml
+E:\DashDocs\DashDocs\bin\Microsoft.AI.DependencyCollector.xml
+E:\DashDocs\DashDocs\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DashDocs\DashDocs\bin\Microsoft.AI.Web.xml
+E:\DashDocs\DashDocs\bin\Microsoft.AI.WindowsServer.xml
+E:\DashDocs\DashDocs\bin\Microsoft.ApplicationInsights.xml
+E:\DashDocs\DashDocs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DashDocs\DashDocs\bin\Microsoft.Data.Edm.xml
+E:\DashDocs\DashDocs\bin\Microsoft.Data.OData.xml
+E:\DashDocs\DashDocs\bin\Microsoft.Data.Services.Client.xml
+E:\DashDocs\DashDocs\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\DashDocs\DashDocs\bin\Microsoft.WindowsAzure.Storage.xml
+E:\DashDocs\DashDocs\bin\Newtonsoft.Json.xml
+E:\DashDocs\DashDocs\bin\System.Spatial.xml
+E:\DashDocs\DashDocs\bin\System.Web.Helpers.xml
+E:\DashDocs\DashDocs\bin\System.Web.Mvc.xml
+E:\DashDocs\DashDocs\bin\System.Web.Optimization.xml
+E:\DashDocs\DashDocs\bin\System.Web.Razor.xml
+E:\DashDocs\DashDocs\bin\System.Web.WebPages.xml
+E:\DashDocs\DashDocs\bin\System.Web.WebPages.Deployment.xml
+E:\DashDocs\DashDocs\bin\System.Web.WebPages.Razor.xml
+E:\DashDocs\DashDocs\bin\System.Net.Http.Formatting.xml
+E:\DashDocs\DashDocs\bin\System.Web.Http.xml
+E:\DashDocs\DashDocs\bin\System.Web.Http.WebHost.xml
+E:\DashDocs\DashDocs\bin\de\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\es\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\it\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\DashDocs\DashDocs\bin\de\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\es\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\fr\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\it\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\ja\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\ko\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\ru\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\DashDocs\DashDocs\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\DashDocs\DashDocs\bin\de\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\es\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\fr\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\it\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\ja\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\ko\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\ru\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hans\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\bin\zh-Hant\System.Spatial.resources.dll
+E:\DashDocs\DashDocs\obj\Debug\DashDocs.csprojResolveAssemblyReference.cache
+E:\DashDocs\DashDocs\obj\Debug\DashDocs.Migrations.Initial.resources
+E:\DashDocs\DashDocs\obj\Debug\DashDocs.csproj.GenerateResource.Cache
+E:\DashDocs\DashDocs\obj\Debug\DashDocs.dll
+E:\DashDocs\DashDocs\obj\Debug\DashDocs.pdb
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\csc.exe
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\csc.exe.config
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\csc.rsp
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\csi.exe
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\csi.rsp
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\System.AppContext.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\vbc.exe
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\vbc.exe.config
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\vbc.rsp
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\VBCSCompiler.exe
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\DashDocs.dll.config
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\DashDocs.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\DashDocs.pdb
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Antlr3.Runtime.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\EntityFramework.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\EntityFramework.SqlServer.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Data.Edm.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Data.OData.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Data.Services.Client.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Newtonsoft.Json.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Net.Http.Formatting.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Spatial.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Helpers.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Http.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Http.WebHost.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Mvc.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Optimization.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Razor.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.WebPages.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.WebPages.Razor.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\WebGrease.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Antlr3.Runtime.pdb
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\EntityFramework.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\EntityFramework.SqlServer.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Data.Edm.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Data.OData.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.Data.Services.Client.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\Newtonsoft.Json.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Spatial.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Helpers.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Mvc.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Optimization.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Razor.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.WebPages.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.WebPages.Razor.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Net.Http.Formatting.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Http.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\System.Web.Http.WebHost.xml
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\de\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\es\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\fr\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\it\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ja\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ko\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\ru\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\obj\Debug\DashDocs.Migrations.Initial.resources
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\obj\Debug\DashDocs.csproj.GenerateResource.Cache
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\obj\Debug\DashDocs.dll
+C:\Users\vth\Desktop\Book\Arts\Chapter 2\DashDocs\DashDocs\obj\Debug\DashDocs.pdb
